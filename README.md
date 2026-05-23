@@ -92,22 +92,22 @@ To calibrate, open `src/APP/autopark1.h` and adjust the milliseconds in the park
 #define TURN2_MS            1050UL  // Time to counter-steer and straighten out
 
 ```
-👥 Team NameRole
-Ali Helmy
-Mekky Mohamed
-Mohamed Saad
-Mohamed Ahmed
-Mohamed Fawzy
-Mohamed Ali Mohamed
-Abdelrahman Walid
-
-Supervisors:
-
-Prof. Ahmed Salem — Academic Supervisor
-Eng. Mohamed Sedeek — Technical Supervisor
-
-
-
+## 👥 Team
+ 
+| Name | Role |
+|------|------|
+| Ali Helmy | Team Member |
+| Mekky Mohamed | Team Member |
+| Mohamed Saad | Team Member |
+| Mohamed Ahmed | Team Member |
+| Mohamed Fawzy | Team Member |
+| Mohamed Ali Mohamed | Team Member |
+| Abdelrahman Walid | Team Member |
+ 
+### Supervisors
+- **Prof. Ahmed Salem** — Academic Supervisor
+- **Eng. Mohamed Sedeek** — Technical Supervisor
 ---
+
 
 *Created by [Mohamed Amr/HV-1 TEAM] - May 2026*
